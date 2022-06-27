@@ -1,2 +1,2 @@
 # leetCode_chalange
-day 1 Done
+Day  1 =>  Done
